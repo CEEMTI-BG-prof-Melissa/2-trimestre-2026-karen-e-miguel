@@ -11,10 +11,13 @@
     $nomek = "Karen";
     $idadek = 16;
 
-    echo "Meu nome é $nomem, tenho $idadem anos.<br>";  "O nome dela é $nomek, e ela tem $idadek anos.";
+    echo "Meu nome é $nomem, tenho $idadem anos.<br>"; echo "O nome dela é $nomek, e ela tem $idadek anos.";
 ?>
 
 </body>
 </html>
+
+
+
 
 
